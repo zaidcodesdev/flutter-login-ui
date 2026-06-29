@@ -1,17 +1,42 @@
-# classico
+# Flutter UI Card Design
 
-A new Flutter project.
+A simple Flutter UI project showcasing a modern profile card design.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Modern Card UI
+- Network Image
+- Custom Icons
+- Gradient Follow Button
+- Responsive Layout
+- Clean Flutter Code
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/zaidcodesdev/flutter-ui.git
+```
+
+Run the project:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Author
+
+**Mohd. Zaid**
+
+GitHub:
+https://github.com/zaidcodesdev
+
+LinkedIn:
+https://www.linkedin.com/in/mohd-zaid-561487411
