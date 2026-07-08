@@ -1,33 +1,31 @@
-# Flutter UI Card Design
+# Flutter Login UI
 
-A simple Flutter UI project showcasing a modern profile card design.
+A clean and responsive Login UI built using Flutter.
 
 ## ✨ Features
 
-- Modern Card UI
-- Network Image
-- Custom Icons
-- Gradient Follow Button
+- Email TextField
+- Phone Number TextField
+- Password Field
+- Show/Hide Password
+- Material Design UI
 - Responsive Layout
-- Clean Flutter Code
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - Flutter
 - Dart
 - Material Design
 
-
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/zaidcodesdev/flutter-ui.git
-```
+git clone https://github.com/zaidcodesdev/flutter-login-ui.git
 
-Run the project:
+cd flutter-login-ui
 
-```bash
 flutter pub get
+
 flutter run
 ```
 
@@ -35,8 +33,4 @@ flutter run
 
 **Mohd. Zaid**
 
-GitHub:
-https://github.com/zaidcodesdev
-
-LinkedIn:
-https://www.linkedin.com/in/mohd-zaid-561487411
+GitHub: https://github.com/zaidcodesdev
